@@ -28,9 +28,9 @@ The data consists of 20 columns of information:
   # 4.1 Visualize data
   4.1.1 Analysis of price variable (dependant variable)
   ![image](https://user-images.githubusercontent.com/91537767/220319414-91ec1b03-2c5c-4ec3-bc09-150ca24ba756.png)
- <p> <i> Histogram and boxplot chart of Price Variable </i> </p>
+
   ![image](https://user-images.githubusercontent.com/91537767/220319702-9d317638-ccdf-49a3-b7fc-f3b2e45fad4a.png) 
-  <p> <i> Information about price variable </i></p>
+
 From the two charts above, the group has the following comments:
 - The price range spans from 6000 to 61000, the data points are not evenly distributed.
 - Sharp kurtosis.
